@@ -27,7 +27,7 @@
                 </div>
                 <div class="w-75 mx-auto text-end mb-2">
                     <a href="#" class="text-decoration-none text-primary">
-                        Esqueci minha senha
+                        Esqueci a minha senha
                     </a>
                 </div>
                 <a href="#" class="btn btn-primary p-2 mb-2 rounded-3 w-75 btn-login"><i
